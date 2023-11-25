@@ -7,10 +7,10 @@
 
 
 # About ME 💬 :
+<img hight="400" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/4ilFRqgbzbx4c/giphy.gif">
+### - I'm 19 years old, i'm a novice frontender
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/4ilFRqgbzbx4c/giphy.gif">
 
 ### - Learning :
 - ✨ Javascript
@@ -19,8 +19,7 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ playing airsoft
 
 </br>
 </br>
