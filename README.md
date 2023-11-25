@@ -38,8 +38,10 @@
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="80" hight="50">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Javascript" width="80" hight="50">
 </br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="80" hight="50">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python" width="80" hight="50">
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="c++" width="80" hight="50">
+
 
 </p>
 </br>
