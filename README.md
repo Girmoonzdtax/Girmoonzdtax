@@ -1,23 +1,20 @@
-# Konichiwa 👋
+# Hello i'm Russian okkupant
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.gifer.com/KNiu.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/hcmdj6HR4YEAAAAC/bang-anime.gif">
 </div>
 
-</br>
-</br>
-</br>
 
 
 # About ME 💬 :
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/4ilFRqgbzbx4c/giphy.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Javascript
+- ✨ React
 
 ### - Hobbies : 
 - ✨ Gaming Addict
